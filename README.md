@@ -12,5 +12,6 @@
 - PostgreSQL.
 - R, RMarkdown.
 - Herramientas de Office: Excel, Word, Access.
+- Herramientas de visualización de datos en Tableau y Power BI.
 - Creación de archivos LaTeX.
 - Conocimientos básicos de HTML.
